@@ -1,0 +1,83 @@
+@charset "UTF-8";
+
+.ptable {
+  background-image: url("Layer 0.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1366px;
+  height: 768px;
+  z-index: 1;
+}
+
+.button1{
+  background-image: url("left group.png");
+  position: absolute;
+  left: 244px;
+  top: 325px;
+  width: 384px;
+  height: 254px;
+  z-index: 2;
+}
+
+.button2{
+  background-image: url("middle group.png");
+  position: absolute;
+  left: 627px;
+  top: 320px;
+  width: 256px;
+  height: 261px;
+  z-index: 3;
+}
+
+.button3{
+  background-image: url("group right.png");
+  position: absolute;
+  left: 884px;
+  top: 199px;
+  width: 320px;
+  height: 317px;
+  z-index: 4;
+}
+
+.button4{
+  background-image: url("Layer 1.png");
+  position: absolute;
+  left: 243px;
+  top: 594px;
+  width: 962px;
+  height: 60px;
+  z-index: 2;
+}
+
+.button5{
+  background-image: url("Layer 2.png");
+  position: absolute;
+  left: 245px;
+  top: 671px;
+  width: 960px;
+  height: 62px;
+  z-index: 2;
+}
+
+.button6{
+  background-image: url("Layer 4.png");
+  position: absolute;
+  left: 115px;
+  top: 198px;
+  width: 128px;
+  height: 379px;
+  z-index: 2;
+}
+
+.button7{
+  background-image: url("Layer 5.png");
+  position: absolute;
+  left: 1205px;
+  top: 135px;
+  width: 65px;
+  height: 63px;
+  z-index: 2;
+}
+
+
